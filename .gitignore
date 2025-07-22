@@ -1,0 +1,20 @@
+# Python files that get created automatically
+__pycache__/
+*.pyc
+*.py[cod]
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Backup files
+backup/
+*.tmp
+
+# Personal notes
+notes.txt
