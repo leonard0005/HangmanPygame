@@ -20,8 +20,8 @@ A feature-rich Hangman game built with Python and Pygame, featuring an Indiana J
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/pygame-hangman.git
-   cd pygame-hangman
+   git clone https://github.com/yourusername/HangmanPygame.git
+   cd HangmanPygame
    ```
 
 2. **Install required dependencies**:
