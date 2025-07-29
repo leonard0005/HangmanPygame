@@ -22,7 +22,7 @@ A feature-rich Hangman game built with Python and Pygame, featuring an Indiana J
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/HangmanPygame.git
+   git clone https://github.com/leonard0005/HangmanPygame.git
    cd HangmanPygame
    ```
 
