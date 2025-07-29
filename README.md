@@ -1,6 +1,6 @@
 # Pygame Hangman Game
 
-A feature-rich Hangman game built with Python and Pygame, featuring an Indiana Jones theme with custom graphics, sound effects, and music.
+A feature-rich Hangman game built with Python and Pygame, featuring an Old West theme with custom graphics, sound effects, and music.
 
 ## Features
 
@@ -41,6 +41,8 @@ A feature-rich Hangman game built with Python and Pygame, featuring an Indiana J
 - Python 3.7+
 - Pygame 2.0+
 
+> ⚠️ **Warning:** The Hangman game must be displayed in a 950x710 pixel window for proper functionality and layout. Running it in a different window size may result in display issues or improper gameplay experience.
+
 ## Game Controls
 
 - **Mouse**: Navigate menus and click buttons
@@ -71,26 +73,12 @@ pygame-hangman/
 └── .gitignore
 ```
 
-## Development
-
-This project was created as a Programming 11 final project, demonstrating:
-- Object-oriented programming concepts
-- Game state management
-- Event handling
-- File I/O operations
-- Audio/visual integration
-
 ## License
 
-This project is for educational purposes.
+MIT License
 
 ## Credits
 
 **Developer**: Leonardo Nieto  
 **Course**: Programming 11 Final Project  
 **Date**: January 19, 2024  
-
-### Assets
-- Theme: Indiana Jones
-- Font: PIXELADE.TTF
-- Custom graphics and sound effects included
