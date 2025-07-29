@@ -16,6 +16,7 @@ A feature-rich Hangman game built with Python and Pygame, featuring an Indiana J
 
 ![Game Screenshot](assets/images/screenshots/Hangman-1.jpg)
 ![Game Screenshot](assets/images/screenshots/Hangman-4.mp4)
+[Watch gameplay video](assets/images/screenshots/Hangman-4.mp4)
 
 ## Installation
 
